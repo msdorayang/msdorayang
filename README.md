@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **needs assessment**
 
-- 👨‍💻 All of my projects are available at [dorayang.ca](dorayang.ca)
+- 👨‍💻 All of my projects are available at [dorayang.ca](https://wwww.dorayang.ca)
 
 - 💬 Ask me about **adult learning theories, graphic design principles**
 
 - 📫 How to reach me **dora.yang@live.com**
 
-- 📄 Know about my experiences [https://uploads-ssl.webflow.com/65ce36e287589006af007721/663ceb539873da7177121378_Resume202405.pdf](https://uploads-ssl.webflow.com/65ce36e287589006af007721/663ceb539873da7177121378_Resume202405.pdf)
+- 📄 Know about my experiences [Resume](https://www.dorayang.ca/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
