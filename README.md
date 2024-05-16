@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Dora</h1>
 <h3 align="center">I create learning experiences for humans.</h3>
+<h4 align="center">📍Ottawa, ON</h4>
 
 - 🔭 I’m currently working on [New Employee Onboarding Checklist](https://github.com/msdorayang/onboarding)
 
