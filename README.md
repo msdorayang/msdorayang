@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [New Employee Onboarding Checklist](https://github.com/msdorayang/onboarding)
 
-- 🌱 I’m currently learning **needs assessment**
+- 🌱 I’m currently learning **curriculum theory**
 
 - 👨‍💻 All of my projects are available at [dorayang.ca](https://wwww.dorayang.ca)
 
